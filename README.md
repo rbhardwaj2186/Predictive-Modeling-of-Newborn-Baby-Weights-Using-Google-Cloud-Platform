@@ -8,6 +8,8 @@ Welcome to the Baby Weight Prediction Project! This initiative aims to leverage 
 
 The core objective of this project is to predict baby weights using historical natality data. By analyzing trends and patterns in the data, we can build predictive models that provide insights into expected baby weights based on various factors.
 
+The dataset used in the project consists of public natality records, including attributes such as baby weight, gender, mother's age, plurality (single or multiple births), and gestation weeks. The data spans multiple years and contains records with valid values for weight, mother's age, plurality, and gestation weeks, ensuring a comprehensive and high-quality dataset for training and evaluating the predictive model.
+
 ## Setup
 
 To set up the project, the following steps are undertaken:
